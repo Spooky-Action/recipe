@@ -2,8 +2,12 @@ a.list-group-item {
   margin: 5px 0;
   border-radius: 5px;
   transition: background-color 0.4s;
+  width: 20vw;
+  background-color: #58DBA0;
+  font-size: 20px;
+  color: #fff;
 }
 
 a.list-group-item:hover {
-  background-color:rgba(102,277,187,0.1);
+  background-color:#49B886;
 }

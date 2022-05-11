@@ -1,0 +1,26 @@
+nav.navbar {
+  background-color: rgba(207, 80, 141, 0.1);
+  min-height: 60px;
+}
+
+.nav>li {
+  margin-top: 8px;
+  margin: 8px 5px;
+}
+
+.nav>li:first-child {
+  margin-left: 0;
+}
+
+.nav>li>a {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  border: 1px solid #66E3BB;
+  border-radius: 5px;
+  transition: background-color 0.4s;
+}
+
+.nav>li>a:hover {
+  background-color: rgba(102,277,187,0.1);
+}

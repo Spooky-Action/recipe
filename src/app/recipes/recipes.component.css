@@ -1,0 +1,10 @@
+p.center-center {
+  position: absolute;
+  top: 30vh;
+  left: 20%;
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: bold;
+  color: #4ABA88;
+  width: max-content;
+}
