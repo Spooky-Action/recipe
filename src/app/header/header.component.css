@@ -1,6 +1,7 @@
 nav.navbar {
   background-color: rgba(207, 80, 141, 0.1);
   min-height: 60px;
+  margin-bottom: 0;
 }
 
 .nav>li {
