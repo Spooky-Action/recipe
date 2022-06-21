@@ -12,9 +12,10 @@ img.img-responsive {
 
 .card-text {
   padding: 30px;
-  background-color: rgba(207, 80, 141, 0.1);
+  background-color: rgb(112 42 76 / 60%);
   border-radius: 0 0 10px 10px;
   min-height: 530px;
+  color: #fff;
 }
 
 .btn-group {
