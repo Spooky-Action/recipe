@@ -1,0 +1,11 @@
+#main {
+  width: 100vw;
+  height: 100vh;
+  background: url(../assets/visual/images/avocado_background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.main-container {
+  padding-top: 20px;
+}
